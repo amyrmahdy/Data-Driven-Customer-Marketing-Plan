@@ -42,3 +42,13 @@
    - Age -> All (19-67)
    - *Recommendation*: Focus on offering affordable options, budget-friendly deals, and a wide range of products to cater to their price-conscious shopping habits.
    - *Action*: Implement flash sales, limited-time offers, or discounts on popular products. Develop targeted advertising campaigns emphasizing the affordability and quality of your offerings.
+
+
+
+
+
+
+---
+Author: **amyrmahdy**
+
+Date: **22 Jun 2023**
